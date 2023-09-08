@@ -1,0 +1,1 @@
+# This project served as a training for data analysis
